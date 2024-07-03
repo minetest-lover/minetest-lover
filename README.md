@@ -1,4 +1,4 @@
-I'm just a random dude that loves everything minetest
+I'm just a random dude that loves everything minetest. 
 
 <!---
 minetest-lover/minetest-lover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
